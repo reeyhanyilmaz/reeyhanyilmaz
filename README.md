@@ -41,11 +41,4 @@
   -->
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hakanolgun&show_icons=true&theme=dark&locale=en" alt="hakanolgun" /></p>
-
-
-
-<!---
-hakanolgun/hakanolgun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reeyhanyilmaz&show_icons=true&theme=dark&locale=en" alt="reyhanyilmaz" /></p>
