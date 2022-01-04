@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reyhan</h1>
-<h3 align="center">Jr. Front-end Developer | JavaScript & React</h3>
+<h3 align="center">Jr. Front-end Developer | JavaScript </h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reeyhanyilmaz" alt="reeyhanyilmaz" /></a> </p>
 
