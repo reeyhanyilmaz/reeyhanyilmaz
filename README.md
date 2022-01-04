@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
-- 📫 How to reach me **reyhanylmz1993@gmail.com**
+- 📫 How to reach me **reyhanyilmaz_@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
