@@ -1,4 +1,9 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Reyhan</h1> <p align="center"> <img src="https://komarev.com/ghpvc/?username=reeyhanyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="reeyhanyilmaz" /> </p>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Reyhan</h1> 
+
+ <!--
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=reeyhanyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="reeyhanyilmaz" /> </p>
+ -->
+ 
 <h3 align="center">Jr. Front-End Developer </h3>
 
  <!-- 
