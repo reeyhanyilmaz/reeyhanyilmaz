@@ -46,4 +46,4 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reeyhanyilmaz&show_icons=true&theme=dark&locale=en" alt="reyhanyilmaz" /></p>
 
 
-![snake svg](https://github.com/reeyhanyilmaz/reeyhanyilmazblob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/reeyhanyilmaz/reeyhanyilmaz/blob/output/github-contribution-grid-snake.gif)
