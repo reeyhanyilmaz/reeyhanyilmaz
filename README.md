@@ -52,11 +52,12 @@
 <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="netlify" width="30" height="30"/> </a> 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reeyhanyilmaz&show_icons=true&theme=dark&locale=en" alt="reyhanyilmaz" /></p>
-  -->
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtcnbb)](https://github.com/anuraghazra/github-readme-stats)
+ 
+-->
 </p>
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtcnbb)](https://github.com/anuraghazra/github-readme-stats)
 
 ![snake gif](https://github.com/reeyhanyilmaz/reeyhanyilmaz/blob/output/github-contribution-grid-snake.gif)
