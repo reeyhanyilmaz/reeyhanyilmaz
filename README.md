@@ -10,8 +10,9 @@
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reeyhanyilmaz" alt="reeyhanyilmaz" /></a> </p> 
  -->
 
+- 🔭 I’m currently developing **React** and **Redux** projects
 
-- 🌱 I’m currently learning **React** and **Redux**
+- 🌱 I’m currently learning **Frontend techs**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript**
 
