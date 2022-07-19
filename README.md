@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Frontend techs**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, TailwindCSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, Bootstrap,SCSS, TailwindCSS, JavaScript, TypeScript**
 
 - 📫 How to reach me **reyhanyilmaz_@outlook.com**
 
