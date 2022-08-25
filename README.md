@@ -10,7 +10,7 @@
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reeyhanyilmaz" alt="reeyhanyilmaz" /></a> </p> 
  -->
 
-- 🔭 I’m currently developing **React, Redux ,TypeScript** and **NextJS** projects
+- 🔭 I’m currently developing **React, Redux** and **NextJS** projects
 
 - 🌱 I’m currently learning **Frontend techs**
 
