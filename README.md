@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently developing **React, Redux** and **NextJS** projects
 
-- 🌱 I’m currently learning **Frontend techs**
+- 🌱 I’m currently learning **Frontend techs** and **React Native**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap,SCSS, TailwindCSS, JavaScript, TypeScript, NextJS**
 
