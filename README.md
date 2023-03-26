@@ -22,7 +22,6 @@
 <p align="left">
 <a href="https://twitter.com/Reeyhanyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reeyhanyilmaz" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/reeyhanyilmaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reyhanyilmaz" height="30" width="40" /></a>
-<a href="https://instagram.com/reeyhanyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reeyhanyilmaz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/reeyhanyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="reyhanyilmaz" height="30" width="40" /></a>
 </p>
 
