@@ -10,11 +10,11 @@
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reeyhanyilmaz" alt="reeyhanyilmaz" /></a> </p> 
  -->
 
-- 🔭 I’m currently developing **React, Redux** and **NextJS** projects
+- 🔭 I’m currently developing **React, Redux** and **NextJS** projects, **React Native**
 
-- 🌱 I’m currently learning **Frontend techs** and **React Native**
+- 🌱 I’m currently learning **Frontend techs**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap,SCSS, TailwindCSS, JavaScript, TypeScript, NextJS**
+- 💬 Ask me about **HTML, CSS, Bootstrap,SCSS, TailwindCSS, JavaScript, TypeScript, NextJS, ReactNative**
 
 - 📫 How to reach me **reyhanyilmaz_@outlook.com**
 
